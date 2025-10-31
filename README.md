@@ -1,1 +1,1 @@
-Ce projet gère plusieurs tâches 
+Ce projet gères plusieurs tâches
